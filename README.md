@@ -9,6 +9,7 @@
   <a href="https://github.com/otaviohc19">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedroaqb&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+  
 ![João GitHub stats](https://github-readme-stats.vercel.app/api?username=joaopedroaqb&show_icons=true&theme=radical)
 
 ### Tecnologias que utilizo no meu dia 👋
