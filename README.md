@@ -1,4 +1,5 @@
 ### Olá eu sou João Pedro Araujo 🔥
+#### Eu me formei Técnico em Informática com técnico integrado ao Ensino Medio de 2019 a 2021, atualmente estou cursando Ciência da Computação no IFTM, iniciei em 2022 e a previsão pra finalizar é 2025. 
 
 [![Blog](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ZCP3DUQyw6)
 [![Blog](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@joaopedroaqb)
