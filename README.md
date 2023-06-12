@@ -7,7 +7,7 @@
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jpaqb_)
 
 <div>
-  <a href="https://github.com/otaviohc19">
+  <a href="https://github.com/joaopedroaqb">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedroaqb&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
