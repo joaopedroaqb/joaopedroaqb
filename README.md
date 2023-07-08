@@ -13,7 +13,7 @@
   
 ![João GitHub stats](https://github-readme-stats.vercel.app/api?username=joaopedroaqb&show_icons=true&theme=radical)
 
-### Tecnologias que utilizo no meu dia 👋
+### Tecnologias que utilizo no meu dia a dia 👋
 
 ![Blog](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Blog](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
