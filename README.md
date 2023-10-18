@@ -7,10 +7,6 @@
 [![Blog](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)]()
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jpaqb_)
 
-<div>
-  <a href="https://github.com/joaopedroaqb">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedroaqb&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 ![João GitHub stats](https://github-readme-stats.vercel.app/api?username=joaopedroaqb&show_icons=true&theme=radical)
 
 ### Tecnologias que utilizo no meu dia a dia 👋
