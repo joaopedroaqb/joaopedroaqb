@@ -11,7 +11,6 @@
 </div>
 
 ![João GitHub stats](https://github-readme-stats.vercel.app/api?username=joaopedroaqb&show_icons=true&theme=radical)
-<img src="https://streak-stats.demolab.com?user=joaopedroaqb&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 
 ### Tecnologias que utilizo no meu dia a dia 
 
