@@ -10,6 +10,11 @@
 <a href="https://www.linkedin.com/in/jpaqb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+<div align="center">
+  <a href="https://github.com/joaopedroaqb">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jjoaopedroaqb&layout=compact&langs_count=7&theme=onedark"/>
+</div>
+
 ![João GitHub stats](https://github-readme-stats.vercel.app/api?username=joaopedroaqb&show_icons=true&theme=radical)
 
 ### Tecnologias que utilizo no meu dia a dia 
