@@ -21,3 +21,7 @@
 ![Blog](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![Blog](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
+<div align="center">
+  <a href="https://github.com/joaopedroaqb">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedroaqb&layout=compact&langs_count=7&theme=onedark"/>
+</div>
